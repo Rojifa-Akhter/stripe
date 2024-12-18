@@ -26,7 +26,7 @@ class PlanSeeder extends Seeder
                 'interval' => 'month',
                 'trial_period_days' => 15,
                 'lookup_key' => 'business',
-                'stripe_plan_id' => 'price_1QTgPOH4T1x8hb5htmLsFZwq'  // Correct price ID for 'business'
+                'stripe_plan_id' => 'price_1QWyjpD8urNnqbX8fx2tNcIR'  // Correct price ID for 'business'
             ],
             [
                 'name' => 'Expert',
@@ -34,7 +34,7 @@ class PlanSeeder extends Seeder
                 'interval' => 'month',
                 'trial_period_days' => 30,
                 'lookup_key' => 'expert',
-                'stripe_plan_id' => 'price_1QTdpBH4T1x8hb5hiE16YHyb'  // Correct price ID for 'expert'
+                'stripe_plan_id' => 'price_1QWyjpD8urNnqbX8fx2tNcIR'  // Correct price ID for 'expert'
             ]
         ];
 
